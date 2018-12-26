@@ -1,2 +1,2 @@
 # Spotify-Clone
-Um clone do spotify
+A spotify clone for studies.
